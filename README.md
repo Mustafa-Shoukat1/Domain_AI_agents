@@ -257,6 +257,3 @@ Please read the individual agent documentation before contributing to specific c
   </div>
 </div>
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
